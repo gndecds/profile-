@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## DALJEET SINGH 
 
 You can use the [editor on GitHub](https://github.com/gndecds/profile-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
